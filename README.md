@@ -1,4 +1,4 @@
-##CS@UCU CourseProject 2017 Google Music
+# CS@UCU CourseProject 2017 Google Music
 
 [Google music open data](http://music.google.com/)
 
@@ -14,4 +14,5 @@ Stages:
 - [ ] 4 week - "data mining" and executing research
 - [ ] 5 week - Result analysis. Project report. Documentation for developed modules.
 
-#1st Stage if fully completed, all instructions are followed.
+## - 1st Stage if fully completed, all instructions are followed.
+
