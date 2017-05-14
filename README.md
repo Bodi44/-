@@ -2,9 +2,9 @@
 
 [Google music open data](http://music.google.com/)
 
-[Python Api wrapper for Google Music](https://github.com/mattduck/wbpy)
+[Python Api wrapper for Google Music](http://code.google.com/p/pymaps/)
 
-[Google Music Api documentation](https://wbpy.readthedocs.io/en/latest/)
+[Google Music Api documentation](https://developers.google.com/sheets/)
 
 
 Stages:
