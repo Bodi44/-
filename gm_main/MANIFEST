@@ -1,0 +1,2 @@
+recursive-include docs *.docx *.jpg
+recursive-include modules *py
