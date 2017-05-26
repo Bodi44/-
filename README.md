@@ -14,6 +14,6 @@ Stages:
 - [X] 4 week - "data mining" and executing research
 - [X] 5 week - Result analysis. Project report. Documentation for developed modules.
 
-## - 1st,2nd,3rd,4th Stages are fully completed, all instructions are followed.
+## - 1st,2nd,3rd,4th,5th Stages are fully completed, all instructions are followed.
 
 
